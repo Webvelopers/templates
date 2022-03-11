@@ -4,7 +4,4 @@
 
 ### TODO List
 
-🗔 terminal
-```bash
-cd TODOList
-```
+![TODO List](/assets/images/todolist.png)
